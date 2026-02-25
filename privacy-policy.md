@@ -19,7 +19,7 @@ DynaTools is a browser extension for Microsoft Dynamics 365 Finance & Operations
 
 ## Permissions Usage
 - `storage`: save extension settings.
-- `tabs` and `activeTab`: run toolbar actions for the active Dynamics tab.
+- `activeTab`: run toolbar actions for the active Dynamics tab.
 - `downloads`: save screenshots initiated by the user.
 - Host access: `*://*.dynamics.com/*` only.
 
